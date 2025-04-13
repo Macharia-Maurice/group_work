@@ -24,7 +24,7 @@ This project implements an OpenGL-based banner for the JKUAT Freshers Bash event
 - High-quality text rendering with FreeType  
 - Real-time adjustments via keyboard input  
 
-📁 **Source File**: [banner.cpp](cat_1/banner.cpp)  
+📁 **Source File**: [banner.cpp](cpp_implementation/group_work/banner.cpp)  
 
 #### **How to Run**  
 1. Install dependencies via vcpkg:  
@@ -50,7 +50,7 @@ This project implements an OpenGL-based banner for the JKUAT Freshers Bash event
 - Simplified code structure  
 - Built-in font rendering  
 
-📁 **Source File**: [banner.py](jkuat_banner.py)  
+📁 **Source File**: [banner.py](python_implementation/jkuat_banner.py)  
 
 #### **How to Run**  
 1. Install Pyglet:  
@@ -69,12 +69,12 @@ Same as C++ implementation.
 
 ## **Output Examples**  
 ### **Default View**  
-![Default Banner](demo/default.png)  
+![Default Banner](#)  
 - Font size: 36px  
 - Spacing: 20px  
 
 ### **Adjusted View**  
-![Scaled Banner](demo/scaled.png)  
+![Scaled Banner](#)  
 - Font size increased to 48px  
 - Spacing increased to 30px  
 
@@ -88,21 +88,17 @@ For a detailed comparison of implementations, refer to:
 
 ## **Contributors**
 
-<a href="https://github.com/ngure1">
-  <img src="https://img.shields.io/badge/Joseph_Ngure-SCT211--0008/2022-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Joseph Ngure">
-</a>
+<div align="center">
 
-<a href="https://github.com/Macharia-Maurice">
-  <img src="https://img.shields.io/badge/Macharia_Maurice-SCT211--0010/2022-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Macharia Maurice">
-</a>
+| Contributor | Registration Number | GitHub |
+|-------------|---------------------|--------|
+| Joseph Ngure | SCT211-0008/2022 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/ngure1) |
+| Macharia Maurice | SCT211-0010/2022 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/Macharia-Maurice) |
+| Florence Kingori | SCT211-0063/2022 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/kingoriwangechi) |
+| Bonface Theuri | SCT211-0573/2022 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/theurikarue) |
 
-<a href="https://github.com/kingoriwangechi">
-  <img src="https://img.shields.io/badge/Florence_Kingori-SCT211--0063/2022-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Florence Kingori">
-</a>
+</div>
 
-<a href="https://github.com/theurikarue">
-  <img src="https://img.shields.io/badge/Bonface_Theuri-SCT211--0573/2022-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Bonface Theuri">
-</a>
 
 --- 
 
